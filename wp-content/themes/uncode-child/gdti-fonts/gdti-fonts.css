@@ -1,0 +1,62 @@
+/* German Deep Tech Text */
+@font-face {
+    font-family: 'tthovesgdtitext';
+    src: url('TT_Hoves_GDTI_Text_Regular.eot');
+    src: url('TT_Hoves_GDTI_Text_Regular.ttf') format('truetype'),
+         url('TT_Hoves_GDTI_Text_Regular.woff') format('woff'),
+         url('TT_Hoves_GDTI_Text_Regular.woff2.html') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+	font-display: swap;
+}
+@font-face {
+    font-family: 'tthovesgdtitext';
+    src: url('TT_Hoves_GDTI_Text_Italic.eot');
+    src: url('TT_Hoves_GDTI_Text_Italic.ttf') format('truetype'),
+         url('TT_Hoves_GDTI_Text_Italic.woff') format('woff'),
+         url('TT_Hoves_GDTI_Text_Italic.woff2.html') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+	font-display: swap;
+}
+@font-face {
+    font-family: 'tthovesgdtitext';
+    src: url('TT_Hoves_GDTI_Text_Medium.eot');
+    src: url('TT_Hoves_GDTI_Text_Medium.ttf') format('truetype'),
+         url('TT_Hoves_GDTI_Text_Medium.woff') format('woff'),
+         url('TT_Hoves_GDTI_Text_Medium.woff2.html') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+	font-display: swap;
+}
+@font-face {
+    font-family: 'tthovesgdtitext';
+    src: url('TT_Hoves_GDTI_Text_Medium_Italic.eot');
+    src: url('TT_Hoves_GDTI_Text_Medium_Italic.ttf') format('truetype'),
+         url('TT_Hoves_GDTI_Text_Medium_Italic.woff') format('woff'),
+         url('TT_Hoves_GDTI_Text_Medium_Italic.woff2.html') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+	font-display: swap;
+}
+/* German Deep Tech Title */
+@font-face {
+    font-family: 'tthovesgdti';
+    src: url('TT_Hoves_GDTI_Medium.eot');
+    src: url('TT_Hoves_GDTI_Medium.ttf') format('truetype'),
+         url('TT_Hoves_GDTI_Medium.woff') format('woff'),
+         url('TT_Hoves_GDTI_Medium.woff2.html') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+	font-display: swap;
+}
+@font-face {
+    font-family: 'tthovesgdti';
+    src: url('TT_Hoves_GDTI_Medium.eot');
+    src: url('TT_Hoves_GDTI_Medium.ttf') format('truetype'),
+         url('TT_Hoves_GDTI_Medium.woff') format('woff'),
+         url('TT_Hoves_GDTI_Medium.woff2.html') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+	font-display: swap;
+}
