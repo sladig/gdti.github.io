@@ -149,6 +149,31 @@ code,
     margin-top: 0 !important;
 }
 
+/* Hero-Bild nur auf rechter Seite (oberhalb des Zitat-Textes) */
+#row-unique-2 .wpb_column.x-elem-a .column-background.background-element {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 55%;
+    z-index: 0;
+}
+#row-unique-2 .wpb_column.x-elem-a .column-background .background-wrapper,
+#row-unique-2 .wpb_column.x-elem-a .column-background .background-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+#row-unique-2 .wpb_column.x-elem-a .uncell {
+    position: relative;
+}
+#row-unique-2 .wpb_column.x-elem-a .uncont {
+    position: relative;
+    z-index: 1;
+}
+
 @media (min-width: 570px){
 .x-bg-stretch .background-inner {
     background-position: 100% 50% !important;
